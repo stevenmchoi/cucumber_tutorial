@@ -1,9 +1,9 @@
 class CatalogPage
   
   BOOK_MAPPING = {
-  "Pragmatic Project Automation" => 1,
-  "Pragmatic Unit Testing (C#)" => 2,
-  "Pragmatic Version Control" => 3
+    "Pragmatic Project Automation" => 1,
+    "Pragmatic Unit Testing (C#)" => 2,
+    "Pragmatic Version Control" => 3
   }
 
   def initialize(browser)
